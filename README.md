@@ -1,1 +1,1 @@
-# Switching-implementation-of-VLANs-Inter-VLAN-Rouring-and-EtherChannel-in-enterprise-networks-
+# Switching: Implementasi VLAN - Routing Antar-VLAN dan EtherChannel dalam Jaringan Perusahaan
